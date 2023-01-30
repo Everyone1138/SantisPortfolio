@@ -13,7 +13,7 @@ function About() {
          Hi!
         </p>
         <p>
-          Thanks for coming to my portfolio page. I am a fullstack web developer 
+          Thanks for coming to my portfolio page. I am a fullstack web developer. Feel free to checkout the portfolio tab to see some of my work. You can leave me your information in the contact tab. And you can check out my resume on the resume tab. 
         </p>
       </div>
     </section>
