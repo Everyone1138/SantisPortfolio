@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/SantisPortfolio/static/css/main.fc497156.css",
+    "main.js": "/SantisPortfolio/static/js/main.f95244aa.js",
+    "static/media/beachSunset.jpg": "/SantisPortfolio/static/media/beachSunset.bcd83ff26754ce6035ea.jpg",
+    "static/media/Gameathon.png": "/SantisPortfolio/static/media/Gameathon.14e32560df24d3492ad6.png",
+    "static/media/RobinGoodFoods.png": "/SantisPortfolio/static/media/RobinGoodFoods.5ce9dfd26723bc3b5df0.png",
+    "static/media/theaterArt.jpg": "/SantisPortfolio/static/media/theaterArt.c927ccffdd5cea01607a.jpg",
+    "static/media/letskeeptrack.png": "/SantisPortfolio/static/media/letskeeptrack.b320886ca0b69f24ad64.png",
+    "index.html": "/SantisPortfolio/index.html",
+    "main.fc497156.css.map": "/SantisPortfolio/static/css/main.fc497156.css.map",
+    "main.f95244aa.js.map": "/SantisPortfolio/static/js/main.f95244aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc497156.css",
+    "static/js/main.f95244aa.js"
+  ]
+}
