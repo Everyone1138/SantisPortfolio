@@ -8,14 +8,14 @@ function Portfolio() {
     {
       name: 'RobinGoodFoods',
       description: 'React/JavaScript/MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://immense-woodland-28981.herokuapp.com/",
+      repo: "https://github.com/Everyone1138/RobinGoodFoods"
     },
     {
       name: 'Gameathon',
       description: 'Rest Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://gameathon13.herokuapp.com/",
+      repo: "https://github.com/Everyone1138/Gameathon/tree/main"
     },
     {
       name: 'letskeeptrack',
